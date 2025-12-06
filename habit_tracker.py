@@ -1,4 +1,3 @@
-
 import json
 from datetime import date
 from pathlib import Path
@@ -10,6 +9,7 @@ def load_data():
         return {"habits": [], "logs": {}}
     with open(DATA_FILE, "r", encoding="utf-8") as f:
         return json.load(f)
+
 
 def save_data(data):
     with open(DATA_FILE, "w", encoding="utf-8") as f:
@@ -34,6 +34,7 @@ def add_habit(data):
     data["habits"].append(name)
     save_data(data)
     print(f"'{name}' 습관이 추가되었습니다.")
+
 
 def delete_habit(data):
     list_habits(data)
