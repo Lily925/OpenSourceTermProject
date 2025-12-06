@@ -57,6 +57,8 @@ OpenSourceTermProject/
 │── README.md # Documentation
 │── LICENSE # MIT License
 
+<img width="514" height="182" alt="image" src="https://github.com/user-attachments/assets/cd7febe5-e4a4-44d6-b3ba-83f385b46ee6" />
+
 ---
 
 ## 🎬 Demo (Example Run)
