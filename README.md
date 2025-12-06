@@ -1,34 +1,54 @@
-# 📘 Open Source Software – Term Project  
-### **HabitTrackerCLI**  
-**Developer:** Biziya Bolorsaran  
+# 🌟 HabitTrackerCLI  
+### Open Source Software – Term Project  
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
+---
+
+## 👤 Developer Information
+**Name:** Biziya Bolorsaran  
 **Student ID:** 22102548  
+**Course:** Open Source Software  
 
 ---
 
-## ✨ Project Overview  
-Habit Tracker CLI is a simple command-line application that helps users create, track, and manage daily habits.  
-The application is written in Python and stores all data locally in a JSON file, ensuring persistence between program runs.
+## 📌 Table of Contents
+- [Project Overview](#project-overview)  
+- [Features](#features)  
+- [Project Structure](#project-structure)  
+- [Demo](#demo-example-run)  
+- [How to Run](#how-to-run)  
+- [License](#license)  
+- [Developer Notes](#developer-notes)  
 
 ---
 
-## 🔥 Features  
-
-### ✔ 1. Add Habit  
-Register new habits that the user wants to track daily.
-
-### ✔ 2. Log Habit  
-Record habits completed for the current day.
-
-### ✔ 3. View Habit List  
-Display all habits that the user has registered.
-
-### ✔ 4. View Daily Logs  
-Check which habits were completed on specific dates.
-
-### ✔ 5. Persistent Storage  
-All data is automatically saved in `data.json`.
+## 📘 Project Overview
+HabitTrackerCLI is a simple and efficient command-line application that helps users create, track, and manage their daily habits.  
+The program is built using Python and stores all data in a JSON file to ensure persistence between runs.
 
 ---
 
-## 📂 Project Structure  
+## ✨ Features
+
+### ✔ Add Habit  
+Register a new habit you want to build and track.
+
+### ✔ Log Habit  
+Record which habits you completed today.
+
+### ✔ View Habit List  
+See all registered habits.
+
+### ✔ View Logs / Statistics  
+Check how many times each habit was completed.
+
+### ✔ Persistent Storage (data.json)  
+All user data is saved automatically.
+
+---
+
+## 📂 Project Structure
 
