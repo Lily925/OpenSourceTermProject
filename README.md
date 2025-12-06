@@ -1,1 +1,2 @@
-# OpenSourceTermProject
+HabitTrackerCLI Project Files
+Generated ZIP package.
