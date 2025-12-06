@@ -51,7 +51,11 @@ All user data is saved automatically.
 ---
 
 ## 📂 Project Structure
-<img width="514" height="182" alt="image" src="https://github.com/user-attachments/assets/cd7febe5-e4a4-44d6-b3ba-83f385b46ee6" />
+OpenSourceTermProject/
+│── habit_tracker.py # Main program
+│── data.json # Auto-generated user data
+│── README.md # Documentation
+│── LICENSE # MIT License
 
 ---
 
