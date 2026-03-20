@@ -114,5 +114,3 @@ This project was created as part of the Open Source Software course.
 Its purpose is to demonstrate understanding of Python basics, CLI interface design, and open-source documentation.
 
 ---
-
-✨ If you need help adding screenshots, GIF demo, or customizing your GitHub pro
